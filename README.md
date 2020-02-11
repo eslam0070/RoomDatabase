@@ -1,8 +1,7 @@
 # RoomDatabase
 
-Home » Android Room Database Example – Building a Todo App
-Android Room Database Example – Building a Todo App
-July 27, 2018 by Belal Khan 3 Comments
+Home » Android Room Database Example – Building a Student App
+Android Room Database Example – Building a Student App
 
 Hi everyone, in this post we will learn about another architectural component of android which is Room Persistence Library. In this android room database example, we will learn how to use room for handling our SQLite database.
 
@@ -10,9 +9,6 @@ Here is a new Android Room Database Example using Kotlin.
 
 This is a video tutorial series and throughout this we will build a basic notes application using Room persistence library. 
 
-
-
-Contents [hide]
 
 1 What is Room?
 
