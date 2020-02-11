@@ -15,28 +15,46 @@ This is a video tutorial series and throughout this we will build a basic notes 
 Contents [hide]
 
 1 What is Room?
+
 2 Components of Room
+
 3 Android Room Database Example
+
 3.1 Creating a new Project
+
 3.2 Adding Dependencies
+
 3.3 Creating Activities
+
 3.3.1 MainActivity
+
 3.3.2 AddTaskActivity
+
 3.3.3 UpdateTaskActivity
+
 3.3.4 Tasks RecyclerView Layout
+
 3.4 Creating Entity
+
 3.5 Creating Dao
+
 3.6 Creating Database
+
 3.7 Database Client
+
 3.8 Adding a Task
+
 3.9 Reading All Tasks
+
 3.9.1 RecyclerView Adapter
+
 3.9.2 Reading Tasks
+
 3.10 Updating and Deleting Task
-4 Todo App
+
 5 Android Room Database Example Source Code
-5.1 Sharing is Caring:
-5.2 Related
+
+
 What is Room?
 The Room persistence library provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
 
